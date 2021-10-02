@@ -9,7 +9,7 @@ Run lab1-1.c:
 gcc lab1-1.c -O3 && ./a.out input.txt output.txt   
 ```
 
-Run lab1-1.c:
+Run lab1-2.c:
 ```bash
 gcc lab1-2.c && ./a.out key
 ```
